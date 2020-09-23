@@ -1,0 +1,34 @@
+_repo: The-Plague-of-Lust-Volume-II-of-II-Being-a-History-of-Venereal-Disease-in-Classical-Antiquity_63246
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+creator:
+  author:
+    agent_name: Rosenbaum, Julius
+    birthdate: 1807
+    deathdate: 1874
+    gutenberg_agent_id: '51883'
+    url: http://www.gutenberg.org/2009/agents/51883
+    wikipedia: https://de.wikipedia.org/wiki/Julius_Rosenbaum_(Mediziner)
+description: ''
+gutenberg_issued: '2020-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Plague of Lust, Volume II (of II)
+
+  Being a History of Venereal Disease in Classical Antiquity'
+url: http://www.gutenberg.org/ebooks/63246
